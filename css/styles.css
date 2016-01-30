@@ -745,6 +745,14 @@ a:visited {
   background-image: url("../assets/img/chris-bruen.jpg");
 }
 
+#chris-merrick-cover {
+  background-image: url("../assets/img/chris-merrick-cover.jpg");
+}
+
+#chris-merrick-card {
+  background-image: url("../assets/img/chris-merrick.png");
+}
+
 #corey-morris-cover {
   background-image: url("../assets/img/corey-morris-cover.jpg");
 }
